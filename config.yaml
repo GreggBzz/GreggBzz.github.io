@@ -1,0 +1,60 @@
+baseURL: https://eternity.bora.sh # todo: change site url.
+title: Krystal Ledoux # todo: change site name.
+defaultContentLanguage: 'en'
+theme: eternity
+googleAnalytics: '' # todo: set your analytics id.
+
+params:
+  hideExif: true
+  image: /images/banner.png
+  logo: krl-logo.png # todo: add your custom logo to static/
+  subtitle: Krystal Ledoux Painting # todo: change default subtitle for your website.
+  copyright: All rights reserved. # todo: set your copyright type.
+  author: Krystal Ledoux # todo: set your full name.
+  dontShowSource: false # please, do not do this :)
+  portfolio:
+    columns:
+      desktop:
+        work: 3
+      mobile:
+        work: 2
+  socials:
+    # todo: change these links.
+    - icon: 'far fa-envelope fa-lg'
+      url: 'mailto:krystal@krystalledoux.com'
+      landing: false
+    - icon: 'fab fa-instagram fa-lg'
+      url: 'https://instagram.com/krlpaintingstudio'
+      landing: false
+  homepage: "/work" # homepage link, mostly same with menu.main[0]
+  specialPages:
+  bypassWelcomePage: true # redirects "/" to "homepage" when it's true.
+  disableWelcomePageBackground: false # disables the background image on the homepage
+  plausible: '' # todo: set your plausible id.
+  disableRadius: false
+  moveIt: false  # Moves Title and Meta info down, only visible when scroll.
+  disableAlwaysResize: true
+
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      unsafe: true
+
+taxonomies:
+  tag: tags
+
+permalinks:
+  work: ":filename/"
+
+menu:
+  main:
+    - name: current work
+      url: /work/
+      weight: 1
+    - name: about
+      url: /about/
+      weight: 2
+    - name: contact and cv
+      url: /contact/
+      weight: 3      
