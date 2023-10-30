@@ -9,6 +9,6 @@ title: Entwined and Interlaced III
 tags:
 - work
 ---
-**Entwined and Interlaced**
+**Entwined and Interlaced III**
 - Mixed Media
 - 34x26 (inches)
