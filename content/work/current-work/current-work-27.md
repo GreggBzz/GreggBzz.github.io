@@ -9,6 +9,6 @@ title: Entwined and Interlaced II
 tags:
 - work
 ---
-**Entwined and Interlaced**
+**Entwined and Interlaced II**
 - Mixed Media
 - 32x33 (inches)
