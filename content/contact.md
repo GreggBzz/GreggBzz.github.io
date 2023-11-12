@@ -22,7 +22,11 @@ hideDate: true
 
 #### PREVIOUS EXHIBITS
 
-**2023**  
+**2023**
+- Exhibit B Gallery Winter Group Juried Show November-December
+- Fusion Art 9Th Figures and Faces Juried Exhibition October
+- PAAGuild Juried Spring Show at Boyer Gallery of The Hill School Center for the Art in Pottstown, PA
+  - Won Honorably Mention 
 - Eclipse Center for Creative Co. in Lansdale, “Disruption” Group Show March-May
 - Meadowood Juried Art Show at Meadowood Senior Living in Worcester, PA, April
 
