@@ -57,7 +57,10 @@ hideDate: true
 - Marywoood University Graduate Exhibit
 
 #### WORK EXPERIENCE
-**2009-2010**  
+**2023-current**  
+- Guild member, PAAGuild, Pottstown, PA
+
+**2014-2018**  
 - Docent/Volunteer, Lansdale Art Association, Lansdale, PA
   - Participate and assisting with exhibits and meetings
 
