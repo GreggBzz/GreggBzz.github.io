@@ -22,7 +22,11 @@ hideDate: true
 
 #### PREVIOUS EXHIBITS
 
-**2023**  
+**2023**
+- Exhibit B Gallery Winter Group Juried Show November-December
+- Fusion Art 9Th Figures and Faces Juried Exhibition October
+- PAAGuild Juried Spring Show at Boyer Gallery of The Hill School Center for the Art in Pottstown, PA
+  - Won Honorable Mention
 - Eclipse Center for Creative Co. in Lansdale, “Disruption” Group Show March-May
 - Meadowood Juried Art Show at Meadowood Senior Living in Worcester, PA, April
 
@@ -53,7 +57,10 @@ hideDate: true
 - Marywoood University Graduate Exhibit
 
 #### WORK EXPERIENCE
-**2009-2010**  
+**2023-current**  
+- Guild member, PAAGuild, Pottstown, PA
+
+**2014-2018**  
 - Docent/Volunteer, Lansdale Art Association, Lansdale, PA
   - Participate and assisting with exhibits and meetings
 
