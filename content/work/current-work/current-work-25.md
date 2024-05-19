@@ -4,11 +4,11 @@ hideExif: true
 hideDate: true
 hideTitle: true
 images:
-- /images/current-work/tounderstandawomanonemustloveher_oilonlinen_24x35_2023.jpg
-title: To Understand A Woman One Must Love Her
+- /images/current-work/entwinedandinterlaced2_mixedmedia_32x33_2023.jpg
+title: Entwined and Interlaced II
 tags:
 - work
 ---
-**To Understand A Woman One Must Love Her**
-- Oil on linen
-- 24x35 (inches)
+**Entwined and Interlaced II**
+- Mixed Media
+- 32x33 (inches)

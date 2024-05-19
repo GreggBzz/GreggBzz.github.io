@@ -4,11 +4,11 @@ hideExif: true
 hideDate: true
 hideTitle: true
 images:
-- /images/current-work/surrendertoher_oilonlinen_36x24_2023.jpg
-title: Surrender To Her
+- /images/current-work/theonlytimeifeelalive_oilonlinen_24x36_2023.jpg
+title: The Only Time I Feel Alive
 tags:
 - work
 ---
-**Surrender To Her**
+**The Only Time I Feel Alive**
 - Oil on linen
-- 36x24 (inches)
+- 24x36 (inches)

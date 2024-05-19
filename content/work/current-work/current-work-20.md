@@ -4,11 +4,11 @@ hideExif: true
 hideDate: true
 hideTitle: true
 images:
-- /images/current-work/theonlytimeifeelalive_oilonlinen_24x36_2023.jpg
-title: The Only Time I Feel Alive
+- /images/current-work/throughahazeofpaintIV_oilonlinen_14x17_2023.jpg
+title: Through The Haze Of Paint IV
 tags:
 - work
 ---
-**The Only Time I Feel Alive**
+**Through The Haze Of Paint IV**
 - Oil on linen
-- 24x36 (inches)
+- 14x17 (inches)
