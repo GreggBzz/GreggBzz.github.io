@@ -4,11 +4,11 @@ hideExif: true
 hideDate: true
 hideTitle: true
 images:
-- /images/current-work/shiftinginmadness_acrylicandoiloncanvas_16x12_2024.jpg
-title: Shifting In Madness
+- /images/current-work/flutteringintatters2.1_mixedmedia_32x32_2024.jpg
+title: Fluttering In Tatters II (point 1)
 tags:
 - work
 ---
-**Shifting In Madness**
-- Arcylic And Oil On Canvas
-- 16x12 (inches)
+**Fluttering In Tatters II (point 1)**
+- Mixed Media
+- 32x32 (inches)

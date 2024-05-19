@@ -22,16 +22,20 @@ hideDate: true
 
 #### PREVIOUS EXHIBITS
 
+**2024**
+- Solo Exhibit at Banana Factory, Allentown, PA, October-January 2025
+- PAAGuild Juried Spring Show at Schwenkfelder and Heritage Center, Pennsburg, PA, May
+
 **2023**
 - Exhibit B Gallery Winter Group Juried Show November-December
 - Fusion Art 9Th Figures and Faces Juried Exhibition October
 - PAAGuild Juried Spring Show at Boyer Gallery of The Hill School Center for the Art in Pottstown, PA
   - Won Honorable Mention
-- Eclipse Center for Creative Co. in Lansdale, “Disruption” Group Show March-May
+- Eclipse Center for Creative Co. in Lansdale, “Disruption” Group Show, March-May
 - Meadowood Juried Art Show at Meadowood Senior Living in Worcester, PA, April
 
 **2019**
-- Exhibit B Gallery Winter Group Show November-December
+- Exhibit B Gallery Winter Group Show, November-December
 - Meadowood Juried Art Show at Meadowood Senior Living in Worcester, PA, April
 
 **2016**

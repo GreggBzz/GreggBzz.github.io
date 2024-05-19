@@ -4,11 +4,11 @@ hideExif: true
 hideDate: true
 hideTitle: true
 images:
-- /images/current-work/radiantevenintheshadows_62x32x3_mixedmedia_2024.jpg
-title: Radiant Even In The Shadows
+- /images/current-work/shiftinginmadness_acrylicandoiloncanvas_16x12_2024.jpg
+title: Shifting In Madness
 tags:
 - work
 ---
-**Radiant Even In The Shadows**
-- Mixed Media
-- 62x32 (inches)
+**Shifting In Madness**
+- Arcylic And Oil On Canvas
+- 16x12 (inches)

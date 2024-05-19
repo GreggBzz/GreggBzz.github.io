@@ -4,11 +4,11 @@ hideExif: true
 hideDate: true
 hideTitle: true
 images:
-- /images/current-work/entwinedandinterlaced3_mixedmedia_34x26_2023.jpg
-title: Entwined and Interlaced III
+- /images/current-work/radiantevenintheshadows_62x32x3_mixedmedia_2024.jpg
+title: Radiant Even In The Shadows
 tags:
 - work
 ---
-**Entwined and Interlaced III**
+**Radiant Even In The Shadows**
 - Mixed Media
-- 34x26 (inches)
+- 62x32 (inches)
