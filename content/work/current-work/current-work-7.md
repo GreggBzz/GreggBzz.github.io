@@ -4,11 +4,11 @@ hideExif: true
 hideDate: true
 hideTitle: true
 images:
-- /images/current-work/flutteringintattersII_oilonlinen_14x17_2023.jpg
-title: Fluttering Tatters II
+- /images/current-work/flutteringintattersIII_oilonlinen_14x17_2023.jpg
+title: Fluttering Tatters III
 tags:
 - work
 ---
-**Fluttering Tatters II**
+**Fluttering Tatters III**
 - Oil on linen
 - 14x17 (inches)

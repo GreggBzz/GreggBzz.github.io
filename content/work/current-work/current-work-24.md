@@ -4,11 +4,11 @@ hideExif: true
 hideDate: true
 hideTitle: true
 images:
-- /images/current-work/entwinedandinterlaced_mixedmedia_29x37_2023.jpg
-title: Entwined and Interlaced
+- /images/current-work/entwinedandinterlaced3_mixedmedia_34x26_2023.jpg
+title: Entwined and Interlaced III
 tags:
 - work
 ---
-**Entwined and Interlaced**
+**Entwined and Interlaced III**
 - Mixed Media
-- 29x37 (inches)
+- 34x26 (inches)

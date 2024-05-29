@@ -4,11 +4,11 @@ hideExif: true
 hideDate: true
 hideTitle: true
 images:
-- /images/current-work/radiantevenintheshadowsII_62x31x5_mixedmedia_2024.jpg
-title: Radiant Even In The Shadows II
+- /images/current-work/flutteringintatters1.1_mixedmedia_32x32_2024.jpg
+title: Fluttering In Tatters I (point 1)
 tags:
 - work
 ---
-**Radiant Even In The Shadows II**
+**Fluttering In Tatters I (point 1)**
 - Mixed Media
-- 62x31 (inches)
+- 32x33 (inches)

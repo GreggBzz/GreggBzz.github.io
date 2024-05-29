@@ -1,14 +1,14 @@
 ---
-weight: 7
+weight: 8
 hideExif: true
 hideDate: true
 hideTitle: true
 images:
-- /images/current-work/flutteringintattersIII_oilonlinen_14x17_2023.jpg
-title: Fluttering Tatters III
+- /images/current-work/krystalroseledoux_spilledink_29x25_oiloncanvas_2023.jpg
+title: Spilled Ink
 tags:
 - work
 ---
-**Fluttering Tatters III**
-- Oil on linen
-- 14x17 (inches)
+**Spilled Ink**
+- Oil on canvas  
+- 29x25 (inches)

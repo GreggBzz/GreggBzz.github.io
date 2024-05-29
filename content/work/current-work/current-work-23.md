@@ -4,11 +4,11 @@ hideExif: true
 hideDate: true
 hideTitle: true
 images:
-- /images/current-work/throughahazeofpaintl_oilonlinen_14x17_2023.jpg
-title: Through The Haze Of Paint I
+- /images/current-work/entwinedandinterlaced2_mixedmedia_32x33_2023.jpg
+title: Entwined and Interlaced II
 tags:
 - work
 ---
-**Through The Haze Of Paint I**
-- Oil on linen
-- 14x17 (inches)
+**Entwined and Interlaced II**
+- Mixed Media
+- 32x33 (inches)

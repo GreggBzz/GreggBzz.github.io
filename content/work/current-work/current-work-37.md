@@ -4,11 +4,11 @@ hideExif: true
 hideDate: true
 hideTitle: true
 images:
-- /images/current-work/yourrootsareleftinmine1.1_acrylicandoil_16x12_2024.jpg
-title: Your Roots Are Left In Mine
+- /images/current-work/claimingourrighttoexist_oiloncanas_36x24_2024.jpg
+title: Claiming Our Right To Exist
 tags:
 - work
 ---
-**Your Roots Are Left In Mine**
-- Arcylic And Oil On Canvas
-- 16x12 (inches)
+**Claiming Our Right To Exist**
+- Oil On Canvas
+- 36x24 (inches)

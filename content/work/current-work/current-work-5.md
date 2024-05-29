@@ -4,11 +4,11 @@ hideExif: true
 hideDate: true
 hideTitle: true
 images:
-- /images/current-work/collapsed_walls_brings_bright_light-detailedview.jpg
-title: Collapsed Walls Brings Bright Light
+- /images/current-work/flutteringintattersI_oilonlinen_14x17_2023.jpg
+title: Fluttering Tatters I
 tags:
 - work
 ---
-**Collapsed Walls Brings Bright Light**
-- Acrylic and oil on canvas  
-- Detail View
+**Fluttering Tatters I**
+- Oil on linen
+- 14x17 (inches)

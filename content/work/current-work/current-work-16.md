@@ -4,11 +4,11 @@ hideExif: true
 hideDate: true
 hideTitle: true
 images:
-- /images/current-work/wakingrealityII_oilonlinen_25x29_2023.jpg
-title: Waking Reality II
+- /images/current-work/yourerootsareleftinmine_acryliconcanvas_2023.jpg
+title: Your Roots Are Lfet In Mine
 tags:
 - work
 ---
-**Waking Reality II**
-- Oil on linen
+**Your Roots Are Left In Mine**
+- Acrylic on canvas
 - 25x29 (inches)
