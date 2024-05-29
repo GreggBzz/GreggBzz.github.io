@@ -1,5 +1,5 @@
 ---
-weight: 7
+weight: 6
 hideExif: true
 hideDate: true
 hideTitle: true
