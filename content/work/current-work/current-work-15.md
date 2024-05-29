@@ -4,11 +4,11 @@ hideExif: true
 hideDate: true
 hideTitle: true
 images:
-- /images/current-work/wakingrealityI_oilonlinen_25x29_2023.jpg
-title: Waking Reality I
+- /images/current-work/womansloveisnofable_acryliconcanvas_24x36_2023.jpg
+title: Womans Love Is No Fable
 tags:
 - work
 ---
-**Waking Reality I**
-- Oil on linen
-- 25x29 (inches)
+**Womans Love Is No Fable**
+- Acrylic on canvas
+- 24x36 (inches)

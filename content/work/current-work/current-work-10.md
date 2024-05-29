@@ -4,11 +4,11 @@ hideExif: true
 hideDate: true
 hideTitle: true
 images:
-- /images/current-work/ladylike_oilonlinen_14x17_2023.jpg
-title: Lady Like
+- /images/current-work/neverbrewed_oilonlinen_25x29_2023.jpg
+title: Never Brewed
 tags:
 - work
 ---
-**Lady Like**
+**Never Brewed**
 - Oil on linen
-- 14x17 (inches)
+- 25x29 (inches)

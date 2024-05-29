@@ -4,11 +4,11 @@ hideExif: true
 hideDate: true
 hideTitle: true
 images:
-- /images/current-work/buildingillusion_oilonlinen_25x29_2023.jpg
-title: Building Illusion
+- /images/current-work/collapsed_walls_brings_bright_light-detailedview.jpg
+title: Collapsed Walls Brings Bright Light
 tags:
 - work
 ---
-**Building Illusion**
-- Oil on linen
-- 25x29 (inches)
+**Collapsed Walls Brings Bright Light**
+- Acrylic and oil on canvas  
+- Detail View

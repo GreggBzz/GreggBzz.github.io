@@ -4,11 +4,11 @@ hideExif: true
 hideDate: true
 hideTitle: true
 images:
-- /images/current-work/entwinedandinterlaced4.1_mixedmedia_32x32_2024.jpg
-title: Entwined And Interlaced IV (point 1)
+- /images/current-work/buildingillusion2_oiloncanvas_12x16_2024.jpg
+title: Building Illusion II
 tags:
 - work
 ---
-**Entwined And Interlaced IV (point 1)**
-- Mixed Media
-- 32x32 (inches)
+**Building Illusion II**
+- Oil On Canvas
+- 12x16 (inches)

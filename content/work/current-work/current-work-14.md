@@ -4,11 +4,11 @@ hideExif: true
 hideDate: true
 hideTitle: true
 images:
-- /images/current-work/waitbesidemeforthewindtoblow_acryliconcanvas_36x24_2023.jpg
-title: Wait Beside Me For The Wind To Blow
+- /images/current-work/wakingrealityII_oilonlinen_25x29_2023.jpg
+title: Waking Reality II
 tags:
 - work
 ---
-**Wait Beside Me For The Wind To Blow**
-- Acrylic On Canvas
-- 36x24 (inches)
+**Waking Reality II**
+- Oil on linen
+- 25x29 (inches)
